@@ -71,7 +71,7 @@ button:active {
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 550px) {
   #display {
     font-size: 2rem;
     padding: 12px;

@@ -35,7 +35,7 @@ Click the links to try each project:
 - [To-Do List](https://axer77-max.github.io/frontend-mini-projects/TO-DO%20LIST/)
 - [Temperature Conversion](https://axer77-max.github.io/frontend-mini-projects/Temprature-Coversion/)
 - [Mini Website](https://axer77-max.github.io/frontend-mini-projects/Website/)
-- [Weather App](https://axer77-max.github.io/frontend-mini-projects/Weather/)
+
 
 ---
 

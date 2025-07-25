@@ -21,9 +21,8 @@ A collection of beginner-friendly frontend projects using HTML, CSS, and JavaScr
 
 6. **Mini Website Portfolio**  
    A multi-page mini portfolio with sections like About, Contact, and Portfolio.
-7. **Weather App **
-
-   A weather app that fetches data from API summarizes basic frontend.
+7.**Mini Website Portfolio**  
+A weather app that fetches data from API
 
 ---
 

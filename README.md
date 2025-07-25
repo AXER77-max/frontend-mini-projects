@@ -30,7 +30,7 @@ Click the links to try each project:
 
 - [Calculator](https://axer77-max.github.io/frontend-mini-projects/Calculator/)
 - [Dice Roller](https://axer77-max.github.io/frontend-mini-projects/Dice-Roller/)
-- [Stopwatch](https://axer77-max.github.io/frontend-mini-projects/Stopwatch/)
+
 - [To-Do List](https://axer77-max.github.io/frontend-mini-projects/TO-DO%20LIST/)
 - [Temperature Conversion](https://axer77-max.github.io/frontend-mini-projects/Temprature-Coversion/)
 - [Mini Website](https://axer77-max.github.io/frontend-mini-projects/Website/)

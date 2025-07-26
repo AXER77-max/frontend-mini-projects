@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ADITYA PROJECT 8 - Pokémon Search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card">
+    <div class="search">
+      <input type="text" id="pokemonName" placeholder="Search Pokémon" />
+      <button onclick="fetchData()">
+        <img src="images/search(1).png" alt="search" />
+      </button>
+    </div>
+    <div class="info">
+      <img id="pokemonSprite" src="" alt="Pokémon" style="display: none" />
+      <h2 id="pokemonDisplayName"></h2>
+      <p><strong>Type(s):</strong> <span id="pokemonTypes"></span></p>
+      <p><strong>Abilities:</strong> <span id="pokemonAbilities"></span></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

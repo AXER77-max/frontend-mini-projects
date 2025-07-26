@@ -8,7 +8,7 @@ A collection of beginner-friendly frontend projects using HTML, CSS, and JavaScr
    Basic calculator to perform arithmetic operations.
 
 2. **Dice Roller**  
-   Roll the dice and get random values between 1-6 with dice images.
+   Roll the dice and get random values between 1–6 with dice images.
 
 3. **Stopwatch**  
    Start, stop, and reset a timer.
@@ -21,10 +21,12 @@ A collection of beginner-friendly frontend projects using HTML, CSS, and JavaScr
 
 6. **Mini Website Portfolio**  
    A multi-page mini portfolio with sections like About, Contact, and Portfolio.
-7. **Weather App**  
+
+7. **Pokémon Search**  
+   Search for any Pokémon by name and view its image, types, and abilities using the PokéAPI.
+
+8. **Weather App**  
    Check live weather of any city using the OpenWeatherMap API.
-   
-   
 
 ---
 
@@ -38,8 +40,8 @@ Click the links to try each project:
 - [To-Do List](https://axer77-max.github.io/frontend-mini-projects/TO-DO%20LIST/)
 - [Temperature Conversion](https://axer77-max.github.io/frontend-mini-projects/Temprature-Coversion/)
 - [Mini Website](https://axer77-max.github.io/frontend-mini-projects/Website/)
+- [Pokémon Search](https://axer77-max.github.io/frontend-mini-projects/pokemon/)
 - [Weather App](https://axer77-max.github.io/frontend-mini-projects/weatherapp/)
-
 
 ---
 

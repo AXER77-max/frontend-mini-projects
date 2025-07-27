@@ -109,3 +109,86 @@ body{
     margin-top: 10px;
     display: none;
 }
+@media (max-width: 600px) {
+  body {
+    background-size: cover;
+    background-position: center;
+    height: auto;
+  }
+
+  .card {
+    width: 95%;
+    padding: 24px 16px;
+    border-radius: 20px;
+    margin: 40px auto;
+  }
+
+  .search {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .search input {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-right: 0;
+    border-radius: 30px;
+  }
+
+  .search button {
+    align-self: center;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+  }
+
+  .search button img {
+    width: 20px;
+  }
+
+  .weather-icon {
+    width: 120px;
+    margin-top: 24px;
+  }
+
+  .weather h1 {
+    font-size: 48px;
+    margin: 10px 0 4px;
+  }
+
+  .weather h2 {
+    font-size: 22px;
+    margin: 0;
+  }
+
+  .details {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 20px;
+    padding: 0;
+  }
+
+  .col {
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .col img {
+    width: 28px;
+  }
+
+  .humidity,
+  .wind,
+  .hum,
+  .win {
+    font-size: 14px;
+  }
+
+  .error {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+}
